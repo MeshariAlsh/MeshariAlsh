@@ -16,4 +16,5 @@
 
 #Skills
 
-<img rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.x/css/all.min.css">
+![alt text](URL "https://simpleicons.org/icons/cplusplus.svg")
+
