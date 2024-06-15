@@ -16,5 +16,5 @@
 
 #Skills
 
-![C++]("https://simpleicons.org/icons/cplusplus.svg")
+![]("https://simpleicons.org/icons/cplusplus.svg")
 
