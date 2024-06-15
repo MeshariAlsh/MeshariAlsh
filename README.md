@@ -15,8 +15,20 @@
   
 - 💬 Ask me about building deploying AI models wrapped as RESTful APIs
 
-#Skills
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40">
+### Languages and Tools:
+
+<p>
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="30" height="30"/>
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="SQL" width="30" height="30"/>
+</p>
+
+
 
 #Record
 
