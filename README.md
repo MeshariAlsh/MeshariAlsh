@@ -16,8 +16,7 @@
 - 💬 Ask me about building deploying AI models wrapped as RESTful APIs
 
 #Skills
-
-![Python](https://simpleicons.org/icons/python.svg "Python") ![Python](https://simpleicons.org/icons/python.svg "Python") ![Python](https://simpleicons.org/icons/python.svg "Python") 
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40">
 
 #Record
 
