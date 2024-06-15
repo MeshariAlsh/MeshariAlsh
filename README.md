@@ -17,7 +17,7 @@
 
 #Skills
 
-![Python](https://simpleicons.org/icons/python.svg "Python")
+![Python](https://simpleicons.org/icons/python.svg "Python") ![Python](https://simpleicons.org/icons/python.svg "Python") ![Python](https://simpleicons.org/icons/python.svg "Python") 
 
 #Record
 
