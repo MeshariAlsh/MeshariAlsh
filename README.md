@@ -16,5 +16,5 @@
 
 #Skills
 
-![alt text](URL "https://simpleicons.org/icons/cplusplus.svg")
+![C++]("https://simpleicons.org/icons/cplusplus.svg")
 
