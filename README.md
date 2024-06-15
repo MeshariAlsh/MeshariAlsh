@@ -17,20 +17,5 @@
 
 ### Languages and Tools:
 
-### Languages and Tools:
-
-<p>
-  <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="SQL" width="40" height="40"/>
-</p>
-
-
-
-
-#Record
-
-
-
+### Languages and Tools
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
