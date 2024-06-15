@@ -1,6 +1,6 @@
 # About me 
 
-** Hi, I'm Meshari .  **
+* Hi, I'm Meshari. *
 
  a second-year Computer Science student transitioning into my third. I'm passionate about web development and artificial intelligence. 
  
@@ -16,7 +16,4 @@
 
 #Skills
 
-![C++]("cplusplus#00599C")
-
-![alt text](https://icons.simpleicons.org/icons/python.svg "Python")
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.x/css/all.min.css">
