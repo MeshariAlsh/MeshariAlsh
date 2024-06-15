@@ -1,7 +1,7 @@
 
 # About me 
 
-## Hi, I'm Meshari. 
+# Hi, I'm Meshari. 
 
  a second-year Computer Science student transitioning into my third. I'm passionate about web development and artificial intelligence. 
  
