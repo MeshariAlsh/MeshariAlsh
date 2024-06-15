@@ -1,16 +1,22 @@
-## Hi there 👋
+# About me 
 
-<!--
-**MeshariAlsh/MeshariAlsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Hi, I'm Meshari .  **
 
-Here are some ideas to get you started:
+ a second-year Computer Science student transitioning into my third. I'm passionate about web development and artificial intelligence. 
+ 
+- 🔭 I’m currently working on developing a story based platformer game on unity.
+  
+- 🌱 I’m currently learning how to connect openAI API to video games to create so call smart NPCs. Allowing players a greater level of immersion and individuality in gameplay
+  
+- 👯  I’m looking to collaborate on projects that apply generative ai to solve real world problems.
+  
+- 🤔 I’m looking for help to learn how to build a deep neural network from scratch using JavaScript.
+  
+- 💬 Ask me about building deploying AI models wrapped as RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Skills
+
+![C++]("cplusplus#00599C")
+
+![alt text](https://icons.simpleicons.org/icons/python.svg "Python")
+
