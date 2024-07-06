@@ -13,7 +13,7 @@
   
 - 🤔 I’m looking for help to learn how to build a deep neural network from scratch using JavaScript.
   
-- 💬 Ask me about deploying AI models wrapped as RESTful APIs
+- 💬 Ask me about deploying AI models wrapped in RESTful APIs
 
 ### Languages and Tools:
 
