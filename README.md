@@ -3,7 +3,7 @@
 
 # Hi, I'm Meshari. 
 
- a second-year Computer Science student transitioning into my third. I'm passionate about web development and artificial intelligence. 
+ a second-year Computer Science student transitioning into my third. I'm passionate about software engineering  and artificial intelligence. 
  
 - 🔭 I’m currently working on developing a story based platformer game on unity.
   
