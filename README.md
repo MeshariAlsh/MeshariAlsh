@@ -8,7 +8,7 @@ I'm a Computer Science student with a passion for software engineering and artif
 
 - 🎮 Developing a story-based platformer game using SFML and C++
 - 🎨 Creating a custom pixel art editor to design assets for my game projects
-- 🤖 Exploring OpenAI API integration for creating intelligent NPCs and enhancing gameplay experiences
+- 🤖 Exploring OpenAI API integration for creating smart NPCs and enhancing gameplay experiences
 - 📚 Deepening my understanding of data structures and algorithms
 
 ## 🌱 Current Learning Focus
