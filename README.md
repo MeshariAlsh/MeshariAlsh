@@ -14,7 +14,7 @@ I'm a Computer Science student with a passion for software engineering and artif
 ## 🌱 Current Learning Focus
 
 - Advanced game development with SFML
-- Neural network architecture and implementation
+- Developing a **sports-match predictor** leveraging advanced ML techniques to analyze patterns and outcomes
 
 ## 👯 Collaboration Interests
 
@@ -26,7 +26,7 @@ I'm a Computer Science student with a passion for software engineering and artif
 - Deploying AI models with RESTful APIs
 - Game development with SFML
 - Pixel art and game asset creation
-- Software architecture and design patterns
+- Software architecture 
 
 ## 🛠️ Languages and Tools
 
