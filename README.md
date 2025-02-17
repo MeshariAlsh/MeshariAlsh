@@ -6,10 +6,10 @@ I'm a Computer Science student with a passion for software engineering and artif
 
 ## 🚀 What I'm Up To
 
-- 🎮 Developing a story-based platformer game using SFML and C++
+- 🧩 Exploring procedural generation techniques for game environments
+- 🌀 Developing a **generative art piece** using the L1 metric to create algorithmic spirals
 - 🎨 Creating a custom pixel art editor to design assets for my game projects
-- 🤖 Exploring OpenAI API integration for creating smart NPCs and enhancing gameplay experiences
-- 📚 Deepening my understanding of data structures and algorithms
+- 📚 Deepening my understanding of data structures, algorithms, software architecture 
 
 ## 🌱 Current Learning Focus
 
