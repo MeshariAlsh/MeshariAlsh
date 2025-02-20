@@ -16,18 +16,6 @@ I'm a Computer Science student with a passion for software engineering and artif
 - Advanced game development with SFML
 - Developing a **sports-match predictor** leveraging advanced ML techniques to analyze patterns and outcomes
 
-## 👯 Collaboration Interests
-
-- Game development projects
-- Open source contributions
-
-## 💡 Ask Me About
-
-- Deploying AI models with RESTful APIs
-- Game development with SFML
-- Pixel art and game asset creation
-- Software architecture 
-
 ## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
