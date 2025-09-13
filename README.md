@@ -15,7 +15,7 @@ I am actively deepening my practical skills in core AI domains relevant to moder
 
 *   **Computer Vision with PyTorch:** Experimenting with image preprocessing, augmentation, and convolutional neural networks (CNNs) to build a strong foundation in visual recognition tasks.
 *   **Transformer Architectures:** Moving beyond using API models to studying the core "Attention is All You Need" paper and building basic transformer components to understand their inner workings.
-*   **End-to-End Project Execution:** Focusing on the entire ML pipeline—from data collection and cleaning to model deployment—emphasizing clean code and thorough documentation.
+
 ## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
