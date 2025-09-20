@@ -6,7 +6,9 @@ I'm a final-year Computer Science student. I have a strong interest in applying 
 
 ## 🔭 What I Built
 
-- **DeepSeek-Instagram Automation Bot:** A complete Python system that integrates multiple APIs to automate social media workflows. Focused on clean architecture and thorough documentation.
+- **DeepSeek-Instagram Automation Bot:** A complete Python system that integrates multiple APIs to automate social media workflows. Focused on clean architecture and thorough documentation. ★ 1
+- **PixelStudio Pixel Art Editor:**  A complete C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. Focused on clean architecture and responsive design.
+- **Algorithmic Art (Grid Spiral Pattern):** A complete Python system that integrates mathematical principles with the Pygame library to algorithmically generate geometric spiral art. Focused on clean procedural generation and robust OOP architecture.
 - **Kaggle Deep Learning:** Completed practical courses in Machine Learning and Deep Learning, implementing projects from data cleaning to model deployment with XGBoost, Scikit-Learn, and TensorFlow.
 
 ## 🌱 Current Focus
