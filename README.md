@@ -16,7 +16,7 @@ I'm a final-year Computer Science student. I have a strong interest in applying 
 I am actively deepening my practical skills in core AI domains relevant to modern applications:
 
 *   **Computer Vision with PyTorch:** Experimenting with image preprocessing, augmentation, and convolutional neural networks (CNNs) to build a strong foundation in visual recognition tasks.
-*   **Transformer Architectures:** Moving beyond using API models to studying the core "Attention is All You Need" paper and building basic transformer components to understand their inner workings.
+
 
 ## 🛠️ Languages and Tools
 
