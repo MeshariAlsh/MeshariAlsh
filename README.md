@@ -9,8 +9,8 @@ I'm a final-year Computer Science student. I have a strong interest in applying 
 - **DeepSeek-Instagram Automation Bot:** A complete Python system that integrates multiple APIs to automate social media workflows. Focused on clean architecture and thorough documentation. ★ 1
 - **PixelStudio Pixel Art Editor:**  A complete C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. Focused on clean architecture and responsive design.
 - **Algorithmic Art (Grid Spiral Pattern):** A complete Python system that integrates mathematical principles with the Pygame library to algorithmically generate geometric spiral art. Focused on clean procedural generation and robust OOP architecture.
-- **Kaggle Deep Learning:** Completed practical courses in Machine Learning and Deep Learning, implementing projects from data cleaning to model deployment with XGBoost, Scikit-Learn, and TensorFlow.
-
+- **CNN Image Classifier (PyTorch, CIFAR-100):** Built and trained a deep CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling. 
+- **Canny Edge Detection (Reimplementation):** Rebuilt the Canny edge detector from scratch using NumPy/OpenCV primitives, including Gaussian blur, Sobel gradients, non-maximum suppression, double thresholding, and hysteresis. Added side-by-side visual comparisons against OpenCV’s Canny and a quantitative edge-count comparison metric.
 ## 🌱 Current Focus
 
 I am actively deepening my practical skills in core AI domains relevant to modern applications:
@@ -34,6 +34,3 @@ I am actively deepening my practical skills in core AI domains relevant to moder
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=MeshariAlsh)
