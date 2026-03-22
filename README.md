@@ -10,7 +10,7 @@ I'm a final-year Computer Science student. I have a strong interest in applying 
   
 - **PixelStudio Pixel Art Editor:**  A complete C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. Focused on clean architecture and responsive design.
   
-- **Autonomous Mobile Robot (Webots, Python, SLAM):** Designed and implemented an autonomous exploration system combining Bug2 navigation with frontier-based exploration. Built an occupancy grid mapping pipeline with real-time goal generation and recovery behaviours. Focused on robust decision-making under uncertainty and modular system design.
+- **Autonomous Mobile Robot (Webots, Python, SLAM):** Designed and implemented an autonomous exploration system combining Bug2 navigation with frontier-based exploration. Built a real-time goal generation and recovery behaviours. Focused on robust decision-making under uncertainty and modular system design.
   
 - **CNN Image Classifier (PyTorch, CIFAR-100):** Built and trained a deep CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling.
   
