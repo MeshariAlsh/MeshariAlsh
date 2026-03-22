@@ -7,17 +7,18 @@ I'm a final-year Computer Science student. I have a strong interest in applying 
 ## 🔭 What I Built
 
 - **DeepSeek-Instagram Automation Bot:** A complete Python system that integrates multiple APIs to automate social media workflows. Focused on clean architecture and thorough documentation. ★ 1
+  
 - **PixelStudio Pixel Art Editor:**  A complete C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. Focused on clean architecture and responsive design.
-- **Algorithmic Art (Grid Spiral Pattern):** A complete Python system that integrates mathematical principles with the Pygame library to algorithmically generate geometric spiral art. Focused on clean procedural generation and robust OOP architecture.
-- **CNN Image Classifier (PyTorch, CIFAR-100):** Built and trained a deep CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling. 
+  
+- **Autonomous Mobile Robot (Webots, Python, SLAM):** Designed and implemented an autonomous exploration system combining Bug2 navigation with frontier-based exploration. Built an occupancy grid mapping pipeline with real-time goal generation and recovery behaviours. Focused on robust decision-making under uncertainty and modular system design.
+  
+- **CNN Image Classifier (PyTorch, CIFAR-100):** Built and trained a deep CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling.
+  
 - **Canny Edge Detection (Reimplementation):** Rebuilt the Canny edge detector from scratch using NumPy/OpenCV primitives, including Gaussian blur, Sobel gradients, non-maximum suppression, double thresholding, and hysteresis. Added side-by-side visual comparisons against OpenCV’s Canny and a quantitative edge-count comparison metric.
+  
 ## 🌱 Current Focus
 
-I am actively deepening my practical skills in core AI domains relevant to modern applications:
-
-*   **Computer Vision with PyTorch:** Experimenting with image preprocessing, augmentation, and convolutional neural networks (CNNs) to build a strong foundation in visual recognition tasks.
-
-
+Developing and experimenting with deep reinforcement learning methods for the inverted pendulum control problem.
 ## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
