@@ -6,7 +6,7 @@ I'm a final-year Computer Science student. I have a strong interest in applying 
 
 ## 🔭 What I Built
 
-- **DeepSeek-Instagram Automation Bot:** A complete Python system that integrates multiple APIs to automate social media workflows. Focused on clean architecture and thorough documentation. ★ 1
+- **DeepSeek-Instagram Automation Bot:** A complete Python system that integrates multiple APIs to automate social media workflows. Focused on clean architecture and thorough documentation. ★ 2
   
 - **PixelStudio Pixel Art Editor:**  A complete C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. Focused on clean architecture and responsive design.
   
