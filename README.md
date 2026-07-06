@@ -2,23 +2,28 @@
 # About Me
 ## Hi, I'm Meshari 👋
 
-I'm a final-year Computer Science student. I have a strong interest in applying machine learning and software engineering to solve practical problems.
+Computer Scientist. Focused on reinforcement learning. 
 
 ## 🔭 What I Built
 
-- **DeepSeek-Instagram Automation Bot:** A complete Python system that integrates multiple APIs to automate social media workflows. Focused on clean architecture and thorough documentation. ★ 2
+- **Dissertation — RL Reward Function Design**: Custom MuJoCo inverted pendulum, 
+  PPO/TD3 via Stable-Baselines3. Found reward curvature drives training stability; 
+  100% eval survival. [Repo →](https://github.com/MeshariAlsh/inverted-pendulum-RL-mujoco)
+
+- **DeepSeek-Instagram Automation Bot:**  Python system that integrates multiple APIs to automate social media workflows. ★ 2
   
-- **PixelStudio Pixel Art Editor:**  A complete C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. Focused on clean architecture and responsive design.
+- **PixelStudio Pixel Art Editor:** C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. 
   
-- **Autonomous Mobile Robot (Webots, Python, SLAM):** Designed and implemented an autonomous exploration system combining Bug2 navigation with frontier-based exploration. Built a real-time goal generation and recovery behaviours. Focused on robust decision-making under uncertainty and modular system design.
+- **Autonomous Mobile Robot (Webots, Python, SLAM):** Developed an autonomous exploration system combining Bug2 navigation with frontier-based exploration. Built a real-time goal generation and recovery behaviours. Includes a discrete Bayes filter for localization under uncertainty
   
-- **CNN Image Classifier (PyTorch, CIFAR-100):** Built and trained a deep CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling.
+- **CNN Image Classifier (PyTorch, CIFAR-100):** CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling.
+
+- **World Bank Data Science Competition**: XGBoost pipeline, ranked 339/1,322 (top 25%). 
   
-- **Canny Edge Detection (Reimplementation):** Rebuilt the Canny edge detector from scratch using NumPy/OpenCV primitives, including Gaussian blur, Sobel gradients, non-maximum suppression, double thresholding, and hysteresis. Added side-by-side visual comparisons against OpenCV’s Canny and a quantitative edge-count comparison metric.
   
 ## 🌱 Current Focus
 
-Developing and experimenting with deep reinforcement learning methods for the inverted pendulum control problem.
+Tinkering with Hopping robot control problem in MuJoCo.
 ## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
