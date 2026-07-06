@@ -11,14 +11,14 @@ Computer Scientist. Focused on reinforcement learning.
   100% eval survival. [Repo →](https://github.com/MeshariAlsh/inverted-pendulum-RL-mujoco)
 
 - **DeepSeek-Instagram Automation Bot:**  Python system that integrates multiple APIs to automate social media workflows. ★ 2
+
+- **World Bank Data Science Competition**: XGBoost pipeline, ranked 339/1,322 (top 25%). 
   
 - **PixelStudio Pixel Art Editor:** C++ system that integrates SFML and ImGui for real-time pixel art creation and editing. 
   
 - **Autonomous Mobile Robot (Webots, Python, SLAM):** Developed an autonomous exploration system combining Bug2 navigation with frontier-based exploration. Built a real-time goal generation and recovery behaviours. Includes a discrete Bayes filter for localization under uncertainty
   
 - **CNN Image Classifier (PyTorch, CIFAR-100):** CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling.
-
-- **World Bank Data Science Competition**: XGBoost pipeline, ranked 339/1,322 (top 25%). 
   
   
 ## 🌱 Current Focus
