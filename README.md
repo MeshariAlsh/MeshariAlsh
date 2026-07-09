@@ -23,7 +23,7 @@ Computer Scientist. Focused on Reinforcement Learning.
   
 ## 🌱 Current Focus
 
-Tinkering with Hopping robot control problem in MuJoCo.
+Studying the Hopping robot control problem in MuJoCo.
 ## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
