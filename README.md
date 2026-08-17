@@ -2,7 +2,7 @@
 # About Me
 ## Hi, I'm Meshari 👋
 
-Computer Scientist. Focused on Reinforcement Learning. 
+Computer Science Graduate. Focused on Reinforcement Learning. 
 
 ## 🔭 What I Built
 
