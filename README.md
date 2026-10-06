@@ -23,7 +23,7 @@ Computer Science Graduate. Focused on Reinforcement Learning.
   
 ## 🌱 Current Focus
 
-Studying the Hopping robot control problem in MuJoCo.
+Studying the full language model pipeline by building one. Data curation → continued pretraining → post-training with SFT and DPO, applied to Arabic writing.
 ## 🛠️ Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
