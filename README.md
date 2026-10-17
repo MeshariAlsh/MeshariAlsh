@@ -9,7 +9,7 @@ Computer Science Graduate. Focused on Reinforcement Learning and language models
 
 ## 🔭 What I Built
 
-- **Irth, a 19th-Century Arabic Language Model**: A chatbot that speaks as an Arabic writer from the 1800s. Curated a 1M-word corpus of 19th-century books, newspapers and magazines, then adapted Qwen3-8B with continued pretraining (held-out perplexity 17.3 → 15.4) and SFT on conversations where every answer is a verbatim passage from the corpus.
+- **Irth, a 19th-Century Arabic Language Model**: A chatbot that speaks as an Arabic writer from the 1800s. Curated a 1M-word corpus of 19th-century books, newspapers and magazines, then adapted Qwen3-8B with continued pretraining and SFT on conversations where every answer is a verbatim passage from the corpus.
   [Try it →](https://hf.co/spaces/MeshariAlsh/Irth-chat) · [Model](https://huggingface.co/MeshariAlsh/arabic1800s-qwen3-8b) · [Dataset](https://huggingface.co/datasets/MeshariAlsh/arabic1800s) · [Code](https://github.com/MeshariAlsh/arabic-1800s-language-model)
 
 - **Dissertation — RL Reward Function Design**: Custom MuJoCo inverted pendulum, 
