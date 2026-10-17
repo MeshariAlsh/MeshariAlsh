@@ -1,10 +1,16 @@
 
 # About Me
-## Hi, I'm Meshari 👋
+## Hi, I'm Meshari Alshammari👋
 
-Computer Science Graduate. Focused on Reinforcement Learning. 
+Computer Science Graduate. Focused on Reinforcement Learning and language models.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-MeshariAlsh-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MeshariAlsh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mesharics-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mesharics)
 
 ## 🔭 What I Built
+
+- **Irth, a 19th-Century Arabic Language Model**: A chatbot that speaks as an Arabic writer from the 1800s. Curated a 1M-word corpus of 19th-century books, newspapers and magazines, then adapted Qwen3-8B with continued pretraining (held-out perplexity 17.3 → 15.4) and SFT on conversations where every answer is a verbatim passage from the corpus.
+  [Try it →](https://hf.co/spaces/MeshariAlsh/Irth-chat) · [Model](https://huggingface.co/MeshariAlsh/arabic1800s-qwen3-8b) · [Dataset](https://huggingface.co/datasets/MeshariAlsh/arabic1800s) · [Code](https://github.com/MeshariAlsh/arabic-1800s-language-model)
 
 - **Dissertation — RL Reward Function Design**: Custom MuJoCo inverted pendulum, 
   PPO/TD3 via Stable-Baselines3. Found reward curvature drives training stability; 
@@ -19,7 +25,6 @@ Computer Science Graduate. Focused on Reinforcement Learning.
 - **Autonomous Mobile Robot (Webots, Python, SLAM):** Developed an autonomous exploration system combining Bug2 navigation with frontier-based exploration. Built a real-time goal generation and recovery behaviours. Includes a discrete Bayes filter for localization under uncertainty
   
 - **CNN Image Classifier (PyTorch, CIFAR-100):** CNN (VGG-style blocks with BatchNorm + Dropout) on CIFAR-100, with a full pipeline dataset mean/std computation, data augmentation, train/val split, and MultiStepLR scheduling.
-  
   
 ## 🌱 Current Focus
 
